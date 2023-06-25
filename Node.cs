@@ -8,5 +8,12 @@ namespace DND10_CustomHashTable
 {
     internal class Node
     {
+        public string Data;
+        public Node Next;
+
+        public Node(string data)
+        {
+            Data = data;
+        }
     }
 }

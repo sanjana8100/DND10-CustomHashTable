@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\bin\Debug\net6.0\DND10-CustomHashTable.exe
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\bin\Debug\net6.0\DND10-CustomHashTable.deps.json
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\bin\Debug\net6.0\DND10-CustomHashTable.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\bin\Debug\net6.0\DND10-CustomHashTable.dll
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\bin\Debug\net6.0\DND10-CustomHashTable.pdb
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.dll
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\refint\DND10-CustomHashTable.dll
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.pdb
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\DND10-CustomHashTable.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND10-CustomHashTable\DND10-CustomHashTable\obj\Debug\net6.0\ref\DND10-CustomHashTable.dll

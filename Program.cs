@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            CustomHashTable customHashTable = new CustomHashTable(7);
+            customHashTable.Display();
         }
     }
 }
