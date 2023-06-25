@@ -12,6 +12,9 @@
             customHashTable.Add("Mango");
 
             customHashTable.Display();
+
+            customHashTable.Search("Mango");
+            customHashTable.Search("Banana");
         }
     }
 }

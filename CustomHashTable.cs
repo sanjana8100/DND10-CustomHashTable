@@ -49,6 +49,32 @@ namespace DND10_CustomHashTable
             Console.WriteLine($"{newName} added at index {arrayIndex}");
         }
 
+        public void Search(string searchName)
+        {
+            int arrayIndex = Math.Abs(CustomHashFunction(searchName)) % Names.Length;
+            Node temp = Names[arrayIndex];
+            int counter = 0;
+            bool found = false;
+
+            while (temp != null)
+            {
+                Console.WriteLine("Iteration Counter: " + counter);
+                if (temp.Data == searchName)
+                {
+                    Console.WriteLine($"{searchName} is present at index {arrayIndex}");
+                    found = true;
+                    break;
+                }
+                temp = temp.Next;
+                counter++;
+            }
+
+            if (!found)
+            {
+                Console.WriteLine($"{searchName} is not found in the Hash Table.");
+            }
+        }
+
         public void Display()
         {
             for (int i = 0; i < Names.Length; i++)
